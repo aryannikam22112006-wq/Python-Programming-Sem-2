@@ -1,5 +1,5 @@
 # Program to compute simple interest
-
+"""
 Created on Mon Feb 16 14:55:26 2026
 
 @author: Aryan
