@@ -1,5 +1,5 @@
 
-Program to print pattern
+# Program to print pattern
 """
 Created on Mon Feb 16 14:36:15 2026
 
